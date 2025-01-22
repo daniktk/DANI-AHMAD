@@ -5,10 +5,9 @@
 using namespace std;
 
 int main() {
-    string candidates[3] = {"Alice", "Bob", "Charlie"};
+    string candidates[3] = {"Danyal", "Rehan", "Nasir"};
     int votes[3] ={0 , 0 , 0} ; // Votes for each candidate
-    int numVoters;
-
+    int numVote
     cout << "Welcome to the Voting System\n";
     cout << "Candidates:\n";
     for (int i = 0; i < 3; ++i) {
